@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1626683809-otd06i49io0bsfh0d4pnrmhm3g63no5m.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1626683809-otd06i49io0bsfh0d4pnrmhm3g63no5m</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDJXN6A4HJjdtC_RK1F4aImdSYzAyOJkcE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1626683809</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ru.koniglabs.test</string>
+	<key>PROJECT_ID</key>
+	<string>sergeykvasov</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sergeykvasov.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1626683809:ios:16e9934dfc8efb267473e0</string>
+	<key>DATABASE_URL</key>
+	<string>https://sergeykvasov.firebaseio.com</string>
+</dict>
+</plist>
